@@ -1,6 +1,6 @@
 # Awesome Ecommerce Backend
 
-![Awesome Ecommerce Backend](https://github.com/Dappa88/awesome-ecommerce-backend/blob/main/ecommerce-backend.png)
+![Awesome Ecommerce Backend](https://th.bing.com/th/id/R.2db5a3f2be76363303d7c101364da461?rik=o6zB0WIfsDN4tg&pid=ImgRaw&r=0)
 
 ## Welcome to Awesome Ecommerce Backend!
 
