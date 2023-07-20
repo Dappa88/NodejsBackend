@@ -35,7 +35,7 @@ To run the Awesome Ecommerce Backend on your local machine, follow these steps:
 1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/awesome-ecommerce-backend.git
+   git clone https://github.com/Dappa88/NodejsBackend.git
    ```
 
 2. **Install Dependencies**: Navigate to the project folder and install the required dependencies by running:
