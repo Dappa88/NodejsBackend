@@ -9,7 +9,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dappa precious",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
